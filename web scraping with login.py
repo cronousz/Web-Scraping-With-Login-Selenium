@@ -17,7 +17,6 @@ driver.minimize_window()
 
 LOGIN_URL = ""
 URL = "" #url to scrape
-#URL2= "https://prtg.infokom.id:8443/controls/sensoroverviewsmalldata.htm?id=3206"
 username = "" #username
 password = "" #passowrd
 
